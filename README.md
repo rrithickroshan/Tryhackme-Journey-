@@ -35,7 +35,7 @@ I'm using this journey to build consistency, strengthen my fundamentals, and dev
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |         **2**             |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |         **3**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
@@ -73,7 +73,7 @@ I'm using this journey to build consistency, strengthen my fundamentals, and dev
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
