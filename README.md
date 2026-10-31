@@ -35,7 +35,7 @@ I'm using this journey to build consistency, strengthen my fundamentals, and dev
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |         **8**             |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |         **9**             |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
@@ -85,7 +85,7 @@ I'm using this journey to build consistency, strengthen my fundamentals, and dev
 
 - [x] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
